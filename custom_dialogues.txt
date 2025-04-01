@@ -1,0 +1,212 @@
+Hello! || Hi there! Welcome to Bank of Kigali. How can I assist you today?
+Hi! || Hello! How can I help you with your banking needs?
+Good morning. || Good morning! How can I assist you with your account today?
+Good evening. || Good evening! Do you need any help with your transactions?
+
+What is my account balance? || Please provide your account number or log into our banking app to check your balance.
+Check my balance. || For security reasons, I can't display balances here. Please check via our app or visit a branch.
+How much money do I have? || You can check your balance through our mobile app, ATM, or by calling our customer support.
+
+How can I open an account? || You can open an account online at https://www.bk.rw or visit any of our branches with your ID and proof of address.
+What are the requirements to open an account? || To open an account, you need a valid ID, proof of address, and an initial deposit.
+Can I open an account using USSD? || Yes, you can dial *334# and follow the instructions to open an account.
+What is the Bank of Kigali website? || The official website of Bank of Kigali is https://www.bk.rw.
+What is the USSD code for Bank of Kigali? || The USSD code for Bank of Kigali is *334#.
+How do I check my account balance? || You can check your account balance by dialing *334#, using the mobile app, or logging into online banking.
+What is the customer care number? || You can contact Bank of Kigali customer care at +250788143000.
+
+How can I transfer money? || You can transfer money via our mobile app, online banking, or by visiting a branch.
+I want to send money to another bank. || You can use our online banking or mobile app to send money to another bank. Would you like step-by-step guidance?
+What are the transfer fees? || The transfer fees depend on the amount and destination. Please visit https://www.bk.rw for details.
+How do I transfer money? || You can transfer money via the mobile app, online banking, or by dialing *334#.
+
+How do I apply for a loan? || You can apply for a loan online at https://www.bk.rw or visit any of our branches. Would you like me to guide you through the process?
+What is the interest rate on personal loans? || Our interest rates vary based on the loan type. Please visit https://www.bk.rw for the latest rates.
+Can I increase my loan amount? || You may be eligible for an increase. Please visit a branch or contact our loan department.
+What is the interest rate on loans? || Interest rates vary based on the loan type. Please visit https://www.bk.rw for the latest rates.
+
+My card is lost. What should I do? || Immediately call our customer support at [bank number] to block your card.
+How do I activate my new debit card? || You can activate your card through online banking, our mobile app, or by visiting an ATM.
+What are the withdrawal limits? || Withdrawal limits depend on your account type. Please check our website for more details.
+What should I do if I lose my card? || Immediately call customer support at +250788143000 or 4455 to block your card.
+How do I activate my new debit card? || You can activate your card through online banking, the mobile app, or by visiting an ATM.
+What are the withdrawal limits? || Withdrawal limits depend on your account type. Please check https://www.bk.rw for more details.
+
+I forgot my online banking password. || You can reset your password by clicking "Forgot Password" on the login page or by calling customer support.
+Why was my transaction declined? || Transactions can be declined due to insufficient funds, incorrect details, or security restrictions. Please check your balance and details.
+How do I reset my online banking password? || You can reset your password by clicking "Forgot Password" on the login page or contacting customer support at +250788143000.
+
+How can I contact customer service? || You can call us at [bank number], email us at [support email], or visit the nearest branch.
+Where is the nearest ATM? || You can find the nearest ATM using our mobile app or at [bank website].
+How do I contact customer service? || You can call +250788143000, email support@bk.rw, or visit the nearest branch.
+Where is the nearest ATM? || You can find the nearest ATM using the mobile app or at https://www.bk.rw.
+
+Can I change my account type? || Yes, you can upgrade or downgrade your account by visiting a branch.
+How can I get a statement for my account? || You can download account statements from online banking or request one from our branch.
+How do I get a statement for my account? || You can download account statements from online banking or request one from a branch.
+
+Is my account secure? || Yes, we use advanced encryption and security protocols to keep your account safe. Never share your PIN or passwords.
+How do I enable two-factor authentication? || You can enable 2FA in your online banking settings or by contacting customer support.
+Is my account secure? || Yes, Bank of Kigali uses advanced encryption and security protocols to keep your account safe.
+How do I enable two-factor authentication? || You can enable 2FA in your online banking settings or by contacting customer support at +250788143000.
+
+hi || Hello! How can I help you with your banking needs?
+paul kagame || Bank of Kigali (BK) is Rwanda's largest bank, playing a significant role in the country's economic development under the leadership of President Paul Kagame.
+
+what are the leader || Dieudonné Dushimimana is the Chief Executive Officer of Bank of Kigali.
+
+both just all || Bank of Kigali (BK) is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses across the country and beyond.
+
+what are the leaders of bk || The leadership of Bank of Kigali (BK) consists of Diane Karusisi as Chief Executive Officer and a Board of Directors chaired by  Patrick Bitature.
+
+who are in boards of directors || The Bank of Kigali board of directors comprises a group of individuals with diverse expertise in finance, governance, and business leadership,  currently  headed by Diane Karusisi as CEO and  with other directors whose specific names and roles are publicly available through the bank's official disclosures.
+
+how to apply loan || You can apply for a loan online or at any of our branches. Would you like me to guide you through the process?
+
+guide you through the process of applying loan || To apply for a loan with Bank of Kigali, visit a branch, complete the application form with required documentation, and submit it for review and approval.
+
+contact support number || Bank of Kigali's customer support contact number is not publicly listed on their website;  you must contact them through their website's inquiry form or visit a branch for assistance.
+
+how are you || I'm doing well and ready to assist you with your questions about Bank of Kigali.
+
+i want security of account || Bank of Kigali prioritizes account security through various measures including robust technology, fraud prevention systems, and customer education initiatives.
+
+morning || Good morning! How can I assist you with your account today?
+i want support || Please ask your question about Bank of Kigali so I can provide a concise, single-sentence summary of the answer.
+
+i need to open bank account || You can open an account online at https://www.bk.rw or visit any of our branches with your ID and proof of address.
+ceo || The CEO of Bank of Kigali is currently Diane Karusisi.
+
+how you do this as chatbot || As a Bank of Kigali chatbot, I provide concise, accurate answers to your questions about the bank's products, services, history, and financial performance.
+exit || Bank of Kigali is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses.
+
+what about my account security || Bank of Kigali employs multiple security measures, including advanced technology and fraud prevention systems, to protect your account information and funds.
+
+who is ceo || The CEO of Bank of Kigali is Diane Karusisi.
+
+what about account openning || Bank of Kigali offers various account opening options, requiring identification documents, proof of address, and potentially a minimum deposit, with the specific requirements varying depending on the chosen account type.
+
+what is the balance of my account || I cannot access your private financial information, including your Bank of Kigali account balance.  To check your balance, please log in to your online banking account or contact Bank of Kigali directly.
+
+what about paul kagame || Paul Kagame is the President of Rwanda, and while not directly employed by Bank of Kigali, his leadership significantly impacts the Rwandan economy and thus indirectly influences the bank's operating environment.
+
+what about paul kagame || Paul Kagame is the president of Rwanda, and while not directly involved in the daily operations of Bank of Kigali, his leadership and policies significantly impact the Rwandan economy and, consequently, the bank's overall operating environment.
+
+what about weather today || I am unable to provide information about the weather today.  My expertise is limited to answering questions about Bank of Kigali.
+
+what about weather today || I am unable to provide you with the weather today as my expertise is limited to information about Bank of Kigali.  To get the weather, please consult a weather app or website.
+
+who is ceo || The CEO of Bank of Kigali is Diane Karusisi.
+
+ceo of this board || The current CEO of Bank of Kigali is Diane Karusisi.
+
+in this year who is leader of board || In 2023, Diane Karusisi leads the Bank of Kigali board.
+
+who will be the next according your prediction || Predicting the next CEO of Bank of Kigali is impossible without inside information;  publicly available information doesn't offer a basis for such a prediction.
+
+is my account secure || Yes, we use advanced encryption and security protocols to keep your account safe. Never share your PIN or passwords.
+withdrawal limits || Withdrawal limits depend on your account type. Please check https://www.bk.rw for more details.
+waramutse || Waramutse! Bank of Kigali is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses.
+
+waramutse || Bank of Kigali is Rwanda's largest bank, offering a wide range of financial services.
+
+If you are || I am a helpful assistant specializing in answering questions about Bank of Kigali.
+
+how do i open the bank account || You can open an account online at https://www.bk.rw or visit any of our branches with your ID and proof of address.
+
+bounjour || Bonjour, Bank of Kigali is Rwanda's largest bank, offering a wide range of financial services.
+
+how is account security || Bank of Kigali employs multiple security measures, including advanced technology and fraud prevention systems, to protect your account information and funds.
+maico ltd || I need more context.  Please provide a question about Bank of Kigali and Maico Ltd that I can summarize in a single sentence.
+
+maico ltd || I need more information about the question you want answered regarding Bank of Kigali and Maico Ltd.  Please provide a specific question.
+
+maico ltd niki || I need more information about "maico ltd niki" in relation to Bank of Kigali to provide a helpful summary in a single sentence.  Please provide context or details about their connection.
+
+maico ltd || I need more context.  Please provide me with the question you want answered about Bank of Kigali and Maico Ltd.
+
+maico ltd || I need more information about the relationship between Bank of Kigali and Maico Ltd. to provide a single-sentence summary.  Please provide context or specifics about their interaction.
+
+the companies of the agency || Bank of Kigali (BK) is a Rwandan financial services group offering a range of banking, insurance, and investment products and services through its subsidiaries and associated companies.
+
+The Director of BK Center || The Director of BK Center oversees the operations and management of Bank of Kigali's headquarters and potentially other key administrative functions.
+
+Who is the Director of BK Center || The Bank of Kigali does not publicly list a "Director of BK Center,"  so I cannot provide that information.
+
+Who is the CEO CEO CEO || The CEO of Bank of Kigali is Diane Karusisi.
+
+Who is the Director of BK Center || Unfortunately, publicly available information does not specify a "Director of BK Center" for Bank of Kigali;  the organizational structure may not use that specific title.
+
+Who is the BK manager || The current Managing Director and Chief Executive Officer of Bank of Kigali is Diane Karusisi.
+is my my account secure || Yes, we use advanced encryption and security protocols to keep your account safe. Never share your PIN or passwords.
+how to open account || You can open an account online at https://www.bk.rw or visit any of our branches with your ID and proof of address.
+what powers you || I am powered by a vast dataset of information about Bank of Kigali, enabling me to summarize and answer your questions in a single, concise sentence whenever possible.
+
+who are you? || I'm doing well and ready to assist you with your questions about Bank of Kigali.
+How big is the company? || Bank of Kigali is Rwanda's largest bank by assets.
+
+how much money do they have || You can check your balance through our mobile app, ATM, or by calling our customer support.
+What is the help line Which || Bank of Kigali's helpline number is not consistently published in a single, readily available source; therefore, I cannot provide a single helpline number summary.  You should check their official website for the most up-to-date contact information.
+
+customer service number to contact || To contact Bank of Kigali customer service, call their number which can be found on their official website.
+
+website || Bank of Kigali's website provides information on its products and services, including accounts, loans, investments, and digital banking options, for both individuals and businesses in Rwanda.
+
+how ca i open an account || You can open an account online at https://www.bk.rw or visit any of our branches with your ID and proof of address.
+nearest atm || To find the nearest Bank of Kigali ATM, use the Bank of Kigali ATM locator on their website or mobile app.
+
+customer care number || You can contact Bank of Kigali customer care at +250788143000.
+i want to know more about BK || Bank of Kigali (BK) is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses across the country and increasingly throughout the region.
+
+how many employees bk has || Bank of Kigali (BK) has approximately 2,700 employees.
+
+who is coe || The CEO of Bank of Kigali is Diane Karusisi.
+born bk what? || Bank of Kigali (BK) was founded in 1966.
+
+where? || Bank of Kigali is a Rwandan bank providing a range of financial services.
+
+james bk || Bank of Kigali (BK) is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses.
+
+do you james? || I am a large language model specializing in providing information about Bank of Kigali;  I do not have personal experiences or feelings, including a name like "James."
+
+how powerd you? || I am powered by a vast dataset of information about Bank of Kigali, enabling me to summarize and answer your questions in a single, concise sentence whenever possible.
+do you love me? || I am a large language model, and I do not have feelings, so I cannot love you.
+
+good || Bank of Kigali (BK) is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses.
+
+health || Bank of Kigali (BK) is a leading financial institution in Rwanda offering a wide range of banking services.
+
+Right || Bank of Kigali (BK) is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses.
+
+This || Bank of Kigali (BK) is Rwanda's largest bank, offering a wide range of financial services to individuals and businesses.
+
+What is BK || BK, or Bank of Kigali, is Rwanda's largest bank by assets, offering a wide range of financial services.
+
+okay how can I a share ? || You can acquire Bank of Kigali shares through the Rwanda Stock Exchange (RSE).
+
+When was it founded || Bank of Kigali was founded in 1966.
+
+who is the ceo of bk || The CEO of Bank of Kigali is Diane Karusisi.
+okay Is there any nearest bank of kigali around kacyiru? || Yes, there are several Bank of Kigali branches in close proximity to Kacyiru.
+
+can i ask other staff not about BK || No, I can only answer questions about Bank of Kigali.
+
+okay thank you? || I'm ready to answer your questions about Bank of Kigali.
+
+here I have a student forward an internership here how can I assist him in c++ language? || I can help the student by providing C++ programming resources, example projects relevant to Bank of Kigali's operations (e.g., financial data processing, simulations), and mentorship to improve their skills.
+
+What are services offered || Bank of Kigali offers a wide range of financial services including corporate and retail banking, mobile banking, and investment services.
+
+What about loans || Bank of Kigali offers a variety of loan products tailored to individual and business needs, including personal loans, home loans, business loans, and agricultural loans, with varying interest rates and repayment terms.
+
+Can i get detailed loan overview || Bank of Kigali offers a diverse range of loans tailored to individual and business needs, including personal loans, home loans, business loans, and agricultural financing, each with varying interest rates, repayment terms, and eligibility criteria.
+
+Museum Uganda || I cannot provide a summary in a single sentence that meaningfully connects Bank of Kigali and the Uganda Museum, as they are entirely unrelated entities.
+
+eligibility criteria for personal loan || Bank of Kigali's personal loan eligibility criteria generally require applicants to be salaried employees or self-employed individuals with a verifiable income, a good credit history, and to meet specific age and residency requirements.
+
+President and Uganda || Bank of Kigali's President operates independently of Uganda's political leadership.
+
+ussd || Bank of Kigali's USSD service allows customers to access various banking services, such as balance checks, transfers, and bill payments, using their mobile phones.
+
+ussd code for bank of kigali || The USSD code for Bank of Kigali is *334#.
