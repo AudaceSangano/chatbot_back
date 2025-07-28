@@ -8,6 +8,8 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+institution_name = "Ecobank Rwanda"
+
 # Load dataset into a dictionary
 def load_custom_dialogues(filename):
     dialogues = {}
@@ -51,7 +53,7 @@ def get_custom_response(user_input, dialogues):
 # Get response from Gemini API if no custom response is found
 def get_gemini_response(user_input):
     # Add context to guide the Gemini API
-    context = "You are a helpful assistant specializing in answering questions about Bank of Kigali. "
+    context = f"You are a helpful assistant specializing in answering questions about {institution_name}. "
     context_end = ", summarize and use single sentence. "
     prompt = context + user_input + context_end  # Combine context with user input
 
