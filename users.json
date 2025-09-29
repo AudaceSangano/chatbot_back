@@ -1,0 +1,18 @@
+{
+  "8613ac2cd44ccafddb94498d773e8c93": {
+    "username": "admin",
+    "email": "admin@ecobank.rw",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "created_at": "2025-09-30T00:20:50.234423",
+    "last_login": "2025-09-30T00:23:19.013691"
+  },
+  "dddab914eed89e09c9898fe8d3ec70e0": {
+    "username": "Audace SANGANO",
+    "email": "audace@mail.com",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "user",
+    "created_at": "2025-09-30T00:21:02.652553",
+    "last_login": null
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "hello!": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756426",
+    "last_asked": null
+  },
+  "hi!": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756451",
+    "last_asked": null
+  },
+  "good morning.": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756456",
+    "last_asked": null
+  },
+  "good evening.": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756461",
+    "last_asked": null
+  },
+  "what is my account balance?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756465",
+    "last_asked": null
+  },
+  "check my balance.": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756469",
+    "last_asked": null
+  },
+  "how much money do i have?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756474",
+    "last_asked": null
+  },
+  "how can i open an account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756481",
+    "last_asked": null
+  },
+  "what are the requirements to open an account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756485",
+    "last_asked": null
+  },
+  "can i open an account using ussd?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756489",
+    "last_asked": null
+  },
+  "what is the ecobank website?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756493",
+    "last_asked": null
+  },
+  "what is the ussd code for ecobank rwanda?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756498",
+    "last_asked": null
+  },
+  "how do i check my account balance?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756502",
+    "last_asked": null
+  },
+  "what is the customer care number?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756506",
+    "last_asked": null
+  },
+  "how can i transfer money?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756510",
+    "last_asked": null
+  },
+  "i want to send money to another bank.": {
+    "count": 1,
+    "created_at": "2025-09-29T23:08:51.756514",
+    "last_asked": "2025-09-29T23:09:20.961080"
+  },
+  "what are the transfer fees?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756518",
+    "last_asked": null
+  },
+  "how do i transfer money?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756522",
+    "last_asked": null
+  },
+  "how do i apply for a loan?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756526",
+    "last_asked": null
+  },
+  "what is the interest rate on personal loans?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756530",
+    "last_asked": null
+  },
+  "can i increase my loan amount?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756534",
+    "last_asked": null
+  },
+  "what is the interest rate on loans?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756538",
+    "last_asked": null
+  },
+  "my card is lost. what should i do?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756545",
+    "last_asked": null
+  },
+  "how do i activate my new debit card?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756549",
+    "last_asked": null
+  },
+  "what are the withdrawal limits?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756553",
+    "last_asked": null
+  },
+  "i forgot my online banking password.": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756557",
+    "last_asked": null
+  },
+  "why was my transaction declined?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756562",
+    "last_asked": null
+  },
+  "how do i reset my online banking password?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756566",
+    "last_asked": null
+  },
+  "how can i contact customer service?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756570",
+    "last_asked": null
+  },
+  "where is the nearest atm?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756574",
+    "last_asked": null
+  },
+  "can i change my account type?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756578",
+    "last_asked": null
+  },
+  "how can i get a statement for my account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756582",
+    "last_asked": null
+  },
+  "is my account secure?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756586",
+    "last_asked": null
+  },
+  "how do i enable two-factor authentication?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756590",
+    "last_asked": null
+  },
+  "how do i reset my pin?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756594",
+    "last_asked": null
+  },
+  "can i update my phone number linked to the account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756598",
+    "last_asked": null
+  },
+  "how do i change my online banking password?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756602",
+    "last_asked": null
+  },
+  "how can i activate my mobile banking?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756606",
+    "last_asked": null
+  },
+  "can i access my account outside rwanda?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756610",
+    "last_asked": null
+  },
+  "why can't i log in to my mobile banking app?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756614",
+    "last_asked": null
+  },
+  "how do i recover my locked account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756618",
+    "last_asked": null
+  },
+  "can i access my account on more than one device?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756622",
+    "last_asked": null
+  },
+  "is there a charge for using online banking?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756626",
+    "last_asked": null
+  },
+  "can i open an account without visiting a branch?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756631",
+    "last_asked": null
+  },
+  "how can i apply for a debit card?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756635",
+    "last_asked": null
+  },
+  "how long does it take to get a new atm card?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756639",
+    "last_asked": null
+  },
+  "what should i do if my card is retained by the atm?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756643",
+    "last_asked": null
+  },
+  "can i use my card internationally?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756647",
+    "last_asked": null
+  },
+  "how can i block a lost or stolen card?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756651",
+    "last_asked": null
+  },
+  "can i request a card replacement online?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756655",
+    "last_asked": null
+  },
+  "what are the daily atm withdrawal limits?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756659",
+    "last_asked": null
+  },
+  "how do i change my card pin?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756663",
+    "last_asked": null
+  },
+  "can i link my card to another account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756667",
+    "last_asked": null
+  },
+  "can i use my card for online payments?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756671",
+    "last_asked": null
+  },
+  "can i schedule future transfers?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756675",
+    "last_asked": null
+  },
+  "how long does a transfer to another bank take?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756679",
+    "last_asked": null
+  },
+  "is there a limit for mobile money transfers?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756683",
+    "last_asked": null
+  },
+  "what is the maximum amount i can transfer per day?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756688",
+    "last_asked": null
+  },
+  "how can i pay my utility bills through the app?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756692",
+    "last_asked": null
+  },
+  "can i reverse a wrong transfer?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756696",
+    "last_asked": null
+  },
+  "how do i make international transfers?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756700",
+    "last_asked": null
+  },
+  "can i set up standing orders?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756704",
+    "last_asked": null
+  },
+  "what is the swift/bic code of ecobank rwanda?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756708",
+    "last_asked": null
+  },
+  "can i transfer money using mobile money (mtn/airtel)?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756712",
+    "last_asked": null
+  },
+  "how do i qualify for a loan?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756725",
+    "last_asked": null
+  },
+  "what documents do i need to apply for a business loan?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756729",
+    "last_asked": null
+  },
+  "can i apply for a loan online?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756733",
+    "last_asked": null
+  },
+  "how do i check my loan balance?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756737",
+    "last_asked": null
+  },
+  "what happens if i miss a loan payment?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756741",
+    "last_asked": null
+  },
+  "can i pay off my loan early?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756745",
+    "last_asked": null
+  },
+  "how long does loan processing take?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756749",
+    "last_asked": null
+  },
+  "can i get a salary advance from the bank?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756753",
+    "last_asked": null
+  },
+  "does ecobank offer student loans?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756757",
+    "last_asked": null
+  },
+  "what’s the maximum amount i can borrow?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756761",
+    "last_asked": null
+  },
+  "where is the nearest ecobank branch?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756765",
+    "last_asked": null
+  },
+  "what are ecobank’s working hours?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756769",
+    "last_asked": null
+  },
+  "is ecobank open on weekends?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756773",
+    "last_asked": null
+  },
+  "how can i book an appointment at a branch?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756777",
+    "last_asked": null
+  },
+  "do you offer priority or vip banking?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756781",
+    "last_asked": null
+  },
+  "is mobile banking safe?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756785",
+    "last_asked": null
+  },
+  "how can i report fraud or suspicious activity?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756789",
+    "last_asked": null
+  },
+  "can i open a joint account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756793",
+    "last_asked": null
+  },
+  "what is the exchange rate today?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756797",
+    "last_asked": null
+  },
+  "how do i close my account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756801",
+    "last_asked": null
+  },
+  "who is leader of this bank": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756809",
+    "last_asked": null
+  },
+  "what are services do you provide": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756818",
+    "last_asked": null
+  },
+  "i want to apply loan what are process": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756822",
+    "last_asked": null
+  },
+  "what are the contact for support": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756826",
+    "last_asked": null
+  },
+  "i need bank website": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756830",
+    "last_asked": null
+  },
+  "i transferred 1 million rwf to my savings, but my balance is showing 0. can you explain why?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756834",
+    "last_asked": null
+  },
+  "before i proceed, how do you protect my personal banking information in this chat?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756838",
+    "last_asked": null
+  },
+  "morning": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756842",
+    "last_asked": null
+  },
+  "apply for the loan: you can apply for the loan online through the ecobank what are the contact for support": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756846",
+    "last_asked": null
+  },
+  "good morning?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756849",
+    "last_asked": null
+  },
+  "what is the balance of my account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756853",
+    "last_asked": null
+  },
+  "how much is the extra money and care for international transfers?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756860",
+    "last_asked": null
+  },
+  "what is your loan?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756864",
+    "last_asked": null
+  },
+  "which manager of this bank": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756868",
+    "last_asked": null
+  },
+  "how do i open an account": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756872",
+    "last_asked": null
+  },
+  "give me the repairs to open an account": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756876",
+    "last_asked": null
+  },
+  "where is this bank located cg i could see atm": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756880",
+    "last_asked": null
+  },
+  "good afternoon, i tried to transfer 250,000 rwf to my supplier’s account last night, but i haven’t received any confirmation yet. also, i noticed a suspicious transaction of 100,000 rwf on my statement this morning. can you check that? and by the way, can i increase my daily transfer limit through the mobile app? i’ll need to make a large payment tomorrow. thank you.": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756884",
+    "last_asked": null
+  },
+  "can i send money to a phone number?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756888",
+    "last_asked": null
+  },
+  "can i send money to a phone number": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756892",
+    "last_asked": null
+  },
+  "what personal information do you collect through this chat that related to bank account?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756896",
+    "last_asked": null
+  },
+  "i need list of customer on kimironko branch": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756900",
+    "last_asked": null
+  },
+  "did kagabo have bank account in this bank?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756904",
+    "last_asked": null
+  },
+  "hi": {
+    "count": 7,
+    "created_at": "2025-09-29T23:08:51.756908",
+    "last_asked": "2025-09-29T23:42:10.745168",
+    "intents": {
+      "greeting": 7
+    },
+    "languages": {
+      "en": 7
+    },
+    "total_response_time": 8.491,
+    "avg_response_time": 1.213
+  },
+  "do you store my personal information that related to bank?": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756915",
+    "last_asked": null
+  },
+  "how to open bank account": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756919",
+    "last_asked": null
+  },
+  "what are document needed to open accoount": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756923",
+    "last_asked": null
+  },
+  "what is the website": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756927",
+    "last_asked": null
+  },
+  "how sugar produced": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756931",
+    "last_asked": null
+  },
+  "how much 1 kg of rice": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756935",
+    "last_asked": null
+  },
+  "what is the exhange rate to day": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756939",
+    "last_asked": null
+  },
+  "i want to use momo": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756943",
+    "last_asked": null
+  },
+  "i want use mobile money": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756947",
+    "last_asked": null
+  },
+  "i want mobile banking": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756950",
+    "last_asked": null
+  },
+  "how to access my account using ussd": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756954",
+    "last_asked": null
+  },
+  "well done, i want help with my account": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756959",
+    "last_asked": null
+  },
+  "my account has stopped working and i don't know what to do": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756963",
+    "last_asked": null
+  },
+  "how to apply for credit": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756967",
+    "last_asked": null
+  },
+  "how many sweet potatoes is": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756971",
+    "last_asked": null
+  },
+  "can i send money to a phone": {
+    "count": 0,
+    "created_at": "2025-09-29T23:08:51.756975",
+    "last_asked": null
+  },
+  "can i send money to other bank": {
+    "count": 5,
+    "created_at": "2025-09-29T23:09:20.962811",
+    "last_asked": "2025-09-29T23:29:18.222168",
+    "intents": {
+      "money_transfer": 2
+    },
+    "languages": {
+      "en": 2
+    },
+    "total_response_time": 1.005,
+    "avg_response_time": 0.201
+  },
+  "can i send money to other bank bitch": {
+    "count": 1,
+    "created_at": "2025-09-29T23:17:50.758137",
+    "last_asked": "2025-09-29T23:17:50.758156"
+  },
+  "did you provide car loan?": {
+    "count": 11,
+    "created_at": "2025-09-29T23:18:54.666812",
+    "last_asked": "2025-09-29T23:28:25.399869",
+    "intents": {
+      "general_question": 10
+    },
+    "languages": {
+      "en": 4,
+      "fr": 6
+    },
+    "total_response_time": 6.741,
+    "avg_response_time": 0.613
+  },
+  "what are the opening hours?": {
+    "count": 1,
+    "created_at": "2025-09-29T23:47:12.206832",
+    "last_asked": "2025-09-29T23:49:56.298028",
+    "intents": {
+      "general_question": 1
+    },
+    "languages": {
+      "en": 1
+    },
+    "avg_response_time": 1.404,
+    "total_response_time": 1.404,
+    "category": "general"
+  },
+  "ceo?": {
+    "count": 1,
+    "created_at": "2025-09-29T23:56:08.525599",
+    "last_asked": "2025-09-29T23:56:35.821162",
+    "intents": {
+      "unknown": 1
+    },
+    "languages": {
+      "en": 1
+    },
+    "avg_response_time": 2.041,
+    "total_response_time": 2.041,
+    "category": "general"
+  },
+  "how much rice cost?": {
+    "count": 1,
+    "created_at": "2025-09-29T23:57:25.795862",
+    "last_asked": "2025-09-29T23:57:25.795881",
+    "intents": {
+      "general_question": 1
+    },
+    "languages": {
+      "en": 1
+    },
+    "avg_response_time": 4.721,
+    "total_response_time": 4.721
+  },
+  "ceo": {
+    "count": 0,
+    "created_at": "2025-09-30T00:20:50.236070",
+    "last_asked": null,
+    "intents": {},
+    "languages": {},
+    "avg_response_time": 0,
+    "total_response_time": 0
+  }
+}
