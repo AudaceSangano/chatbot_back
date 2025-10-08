@@ -27,7 +27,7 @@ USERS_FILE = "users.json"
 SECRET_KEY = "your-secret-key-change-this-in-production"  # Change this!
 TOKEN_EXPIRY_HOURS = 24
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 INTENTS = {
     "greeting": [
