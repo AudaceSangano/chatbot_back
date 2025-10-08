@@ -128,3 +128,8 @@ did you provide car loan? || Yes, Ecobank Rwanda offers car loans to help custom
 what are the opening hours? || We are open Monday to Friday, 8 AM - 5 PM.
 ceo || Ecobank Ceo is Audace.
 how much rice cost? || I'm sorry, but I can't provide information on the cost of rice or any other non-banking related inquiries. If you have questions about Ecobank Rwanda or banking services, feel free to ask!
+hello || Hi there! Welcome to Ecobank Rwanda. How can I help you today?
+what is your swift code? || Our SWIFT code is ECOC001
+what is your swift code || Our SWIFT code is ECOC001
+swift code || The SWIFT code for Ecobank Rwanda is typically used for international money transfers. However, specific SWIFT codes can vary based on the branch. The general SWIFT code for Ecobank Rwanda is **ECOCRWRA**. If you need a specific branch's SWIFT code, I recommend checking directly with the bank or their official website for the most accurate information.
+what is you swift || Our SWIFT code is ECOC001

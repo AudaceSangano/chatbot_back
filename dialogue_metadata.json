@@ -1,8 +1,16 @@
 {
   "hello!": {
-    "count": 0,
+    "count": 1,
     "created_at": "2025-09-29T23:08:51.756426",
-    "last_asked": null
+    "last_asked": "2025-10-08T09:59:37.940575",
+    "total_response_time": 16.245,
+    "avg_response_time": 16.245,
+    "intents": {
+      "greeting": 1
+    },
+    "languages": {
+      "en": 1
+    }
   },
   "hi!": {
     "count": 0,
@@ -455,9 +463,18 @@
     "last_asked": null
   },
   "morning": {
-    "count": 0,
+    "count": 2,
     "created_at": "2025-09-29T23:08:51.756842",
-    "last_asked": null
+    "last_asked": "2025-10-08T10:11:22.511437",
+    "total_response_time": 3.0469999999999997,
+    "avg_response_time": 1.523,
+    "intents": {
+      "greeting": 2
+    },
+    "languages": {
+      "fr": 1,
+      "en": 1
+    }
   },
   "apply for the loan: you can apply for the loan online through the ecobank what are the contact for support": {
     "count": 0,
@@ -535,17 +552,17 @@
     "last_asked": null
   },
   "hi": {
-    "count": 7,
+    "count": 8,
     "created_at": "2025-09-29T23:08:51.756908",
-    "last_asked": "2025-09-29T23:42:10.745168",
+    "last_asked": "2025-10-08T10:08:04.764009",
     "intents": {
-      "greeting": 7
+      "greeting": 8
     },
     "languages": {
-      "en": 7
+      "en": 8
     },
-    "total_response_time": 8.491,
-    "avg_response_time": 1.213
+    "total_response_time": 9.786,
+    "avg_response_time": 1.223
   },
   "do you store my personal information that related to bank?": {
     "count": 0,
@@ -688,17 +705,17 @@
     "category": "general"
   },
   "how much rice cost?": {
-    "count": 1,
+    "count": 2,
     "created_at": "2025-09-29T23:57:25.795862",
-    "last_asked": "2025-09-29T23:57:25.795881",
+    "last_asked": "2025-10-08T09:47:39.582748",
     "intents": {
-      "general_question": 1
+      "general_question": 2
     },
     "languages": {
-      "en": 1
+      "en": 2
     },
-    "avg_response_time": 4.721,
-    "total_response_time": 4.721
+    "avg_response_time": 2.948,
+    "total_response_time": 5.896
   },
   "ceo": {
     "count": 0,
@@ -708,5 +725,58 @@
     "languages": {},
     "avg_response_time": 0,
     "total_response_time": 0
+  },
+  "what is your swift code?": {
+    "count": 1,
+    "created_at": "2025-10-08T10:02:37.713411",
+    "last_asked": "2025-10-08T10:03:29.446774",
+    "intents": {
+      "general_question": 1
+    },
+    "languages": {
+      "fr": 1
+    },
+    "avg_response_time": 2.179,
+    "total_response_time": 2.179,
+    "category": "general"
+  },
+  "swift code": {
+    "count": 1,
+    "created_at": "2025-10-08T10:04:11.444425",
+    "last_asked": "2025-10-08T10:04:11.444454",
+    "intents": {
+      "unknown": 1
+    },
+    "languages": {
+      "en": 1
+    },
+    "avg_response_time": 4.842,
+    "total_response_time": 4.842
+  },
+  "what is your swift code": {
+    "count": 2,
+    "created_at": "2025-10-08T10:08:35.699878",
+    "last_asked": "2025-10-08T10:10:08.940106",
+    "intents": {
+      "general_question": 2
+    },
+    "languages": {
+      "en": 2
+    },
+    "avg_response_time": 1.541,
+    "total_response_time": 3.082
+  },
+  "what is you swift": {
+    "count": 1,
+    "created_at": "2025-10-08T10:09:19.000403",
+    "last_asked": "2025-10-08T10:09:19.000421",
+    "intents": {
+      "general_question": 1
+    },
+    "languages": {
+      "en": 1
+    },
+    "avg_response_time": 1.454,
+    "total_response_time": 1.454
   }
 }

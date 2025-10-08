@@ -5,7 +5,7 @@
     "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
     "role": "admin",
     "created_at": "2025-09-30T00:20:50.234423",
-    "last_login": "2025-09-30T00:23:19.013691"
+    "last_login": "2025-10-08T10:12:41.584113"
   },
   "dddab914eed89e09c9898fe8d3ec70e0": {
     "username": "Audace SANGANO",
@@ -13,6 +13,14 @@
     "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
     "role": "user",
     "created_at": "2025-09-30T00:21:02.652553",
+    "last_login": null
+  },
+  "0f348ed1f64c336df45f79d10516e5e5": {
+    "username": "Sangiza",
+    "email": "sangiza@gmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user",
+    "created_at": "2025-10-08T10:11:00.932247",
     "last_login": null
   }
 }
